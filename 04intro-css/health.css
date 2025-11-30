@@ -14,3 +14,29 @@ header span {
       font-weight: 700;
 
 }
+/*navagation stuff here*/
+nav {
+    background-color: #9ea88f;
+}
+nav ul {
+    margin: 0;
+    padding: 0 10px;
+    list-style-type: none;
+    display: flex;
+}
+nav a {
+    display:block;
+    padding: .83rem 1rem;
+    text-decoration: none;
+    font: 1.1rem;
+    color: #3b3027;
+    font-weight: 700;
+}
+
+nav li.active a {
+    background-color: #3b3027;
+    color: #9ea88f;
+}
+nav li a:hover {
+    color: white;
+}
