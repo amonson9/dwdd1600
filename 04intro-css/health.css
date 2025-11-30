@@ -2,3 +2,15 @@ body {
       font-family: "Cormorant Garamond", serif;
       margin: 0;
 }
+
+/*header start here*/
+header{
+      background-color: #f6f1e7;
+      padding: 1rem 10px;
+}
+header span {
+      color: #9ea88f;
+      font-size: 1.6rem;
+      font font-weight: 700;
+
+}
