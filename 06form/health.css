@@ -208,7 +208,6 @@ font-weight: bold;
     background-color: var(--creamcolor);
     border: 1px solid var(--browncolor);
     padding: 0.5rem;
-    width: 300px;
     border-radius: 5px;
     box-sizing: border-box;
 }
