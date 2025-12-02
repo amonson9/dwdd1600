@@ -182,7 +182,6 @@ font-weight: bold;
 .myForm select, .myForm [type=text],.myForm [type=tel], .myForm [type=email],.myForm textarea {
     border: solid 1px var(--browncolor);
     padding: .25rem;
-    width: 300px;
     font-family: var(--pagefont);
     font-weight: 200;
    }
